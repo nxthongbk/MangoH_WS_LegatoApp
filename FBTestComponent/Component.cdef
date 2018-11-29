@@ -1,0 +1,5 @@
+sources:
+{
+	FBTestComponent.cpp
+	paint.cpp
+}
